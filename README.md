@@ -10,3 +10,4 @@ Which product categories are carrying the business?
 Does outlet size or type change how items perform?
 The answers showed up in the final dashboard: $1.20M in total sales across 8,523 items, Tier 3 locations leading in revenue, Supermarket Type1 outlets pulling the most weight, and Fruits & Vegetables and Snack Foods topping the product list. I also added slicers and used the bookmark feature to set up a clear button for refreshing so to make it as interactive as possible.
 What I loved most wasn't the charts. It was the moment the data stopped being rows and columns and started being a story someone could act on.
+https://github.com/pronokenn/Grocery-sales-analysis/blob/c5bc826026bf082feb6308571179d5b40c0851f5/Screenshot%20(145).png
